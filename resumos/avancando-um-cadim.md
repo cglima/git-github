@@ -4,7 +4,7 @@
 
 - Conectar os dois repositórios:
 
-`$git remot add origin url-do-repositorio-remoto`
+`$git remote add origin url-do-repositorio-remoto`
 
 em seguida
 
@@ -26,7 +26,7 @@ em seguida
 
 - Deletando:
 
-`$gir branch -d nome-da-branch-que-quer-excluir`
+`$git branch -d nome-da-branch-que-quer-excluir`
 
 - Tratando Conflitos:
 
