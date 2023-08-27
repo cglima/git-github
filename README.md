@@ -1,22 +1,27 @@
-# DIO | Resumos Git e GitHub
+# DIO | Versionamento de Código com Git e GitHub
 
 Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
 
-## Documentação
+## Objetivos
 
-- [Documentação Git](https://git-scm.com/doc)
-- [Documentação GitHub](https://docs.github.com/)
+- Aprender o básico sobre versionamento de código com Git e GitHub.
+- Para toda vez que a Ciana do futuro esquecer de como faz, ela vai agradecer a Ciana do passado por ter documentado estes comandos básicos =D
 
 ## Resumos das Aulas
 
-| Aulas                                    | Resumos     |
-| ---------------------------------------- | ----------- |
-| Gravando Alterações no Repositório Local | [Resumos]() |
+| Aulas                          | Resumos                                |
+| ------------------------------ | -------------------------------------- |
+| Sistemas de Controle de Versão | [Acessar](sistemas-controle-versao.md) |
+| Configurações Iniciais         | [Acessar](configuracoes-iniciais.md)   |
+| Primeiros Passos               | [Acessar](primeiros-passos.md)         |
+| Avançando um **'cadim'**       | [Acessar](avancando-um-cadim.md)       |
+| Mais um **'poquim'**           | [Acessar](mais-um-poquim)              |
 
-```
-git init
-```
+`$ git init`
 
 ## Referências
 
-- [Digital Innovation One]().
+- [Documentação Git](https://git-scm.com/doc)
+- [Documentação GitHub](https://docs.github.com/)
+- [Resolvendo conflitos em Git](https://jtemporal.com/resolvendo-conflitos/)
+- [Resolver um conflito de merge no GitHub](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
