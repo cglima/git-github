@@ -11,11 +11,11 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 | Aulas                          | Resumos                                |
 | ------------------------------ | -------------------------------------- |
-| Sistemas de Controle de Versão | [Acessar](https://github.com/cglima/git-github/blob/main/resumos/sistemas-controle-versao) |
-| Configurações Iniciais         | [Acessar](https://github.com/cglima/git-github/blob/main/resumos/configuracoes-iniciais)   |
-| Primeiros Passos               | [Acessar](https://github.com/cglima/git-github/blob/main/resumos/primeiros-passos)         |
-| Avançando um **'cadim'**       | [Acessar](https://github.com/cglima/git-github/blob/main/resumos/avancando-um-cadim)       |
-| Mais um **'poquim'**           | [Acessar](https://github.com/cglima/git-github/blob/main/resumos/mais-um-poquim)              |
+| Sistemas de Controle de Versão | [Acessar](https://github.com/cglima/git-github/blob/main/resumos/sistemas-controle-versao.md) |
+| Configurações Iniciais         | [Acessar](https://github.com/cglima/git-github/blob/main/resumos/configuracoes-iniciais.md)   |
+| Primeiros Passos               | [Acessar](https://github.com/cglima/git-github/blob/main/resumos/primeiros-passos.md)         |
+| Avançando um **'cadim'**       | [Acessar](https://github.com/cglima/git-github/blob/main/resumos/avancando-um-cadim.md)       |
+| Mais um **'poquim'**           | [Acessar](https://github.com/cglima/git-github/blob/main/resumos/mais-um-poquim.md)              |
 
 ## Referências
 
